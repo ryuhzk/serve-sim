@@ -34,6 +34,8 @@
     "src/ax.ts",
     "src/camera-helper.ts",
     "src/middleware.ts",
+    "src/key-sequencer.ts",
+    "src/keyboard-modifiers.ts",
     "src/native.ts",
     "src/simctl.ts",
     "src/state.ts",
